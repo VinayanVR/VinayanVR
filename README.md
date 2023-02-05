@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**VinayanVR/VinayanVR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ✨ Welcome to my data analysis Github Repo! I am a data analyst with a passion for turning complex data sets into actionable insights that drive business success.
 I  enjoy using data to solve problem and drive business decisions
