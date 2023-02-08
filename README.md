@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-✨ Welcome to my data analysis Github Repo! I am a data analyst with a passion for turning complex data sets into actionable insights that drive business success.
+✨ Welcome to my data analysis Github Repo! I am a data nerd with a passion for turning complex data sets into actionable insights that drive business success.
 I  enjoy using data to solve problem and drive business decisions
 
 ✨ My Skill include data cleaning and pre-procesing, exploratory data analysis, data visualization and machine learning
